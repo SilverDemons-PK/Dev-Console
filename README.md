@@ -3,6 +3,7 @@
 
 ## Dev/Console By Silver Demon Studios
 Dev/Console is like a super useful tool in games. You can easily create your own commands/cheats by just adding [Command] to your code. It's that simple!
+### You can download .unitypacakge from the release section on Right side.
 
 ### Support:
 Have any queries? Feel free to contact support.
